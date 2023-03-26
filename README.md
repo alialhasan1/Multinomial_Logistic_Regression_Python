@@ -1,1 +1,1 @@
-# Multinomial_Logistic_Regression_Python
+# Multinomial_Logistic_Regression_In_Python
