@@ -16,12 +16,17 @@ This project performs data processing, data exploration, data cleaning, data vis
 
 ## The notebook is divided into sections, each performing a specific task. The tasks performed are:
 
-• Data Processing & Data Exploration
-• Data Cleaning
-• Feature Selection
-• Logistic Regression Classifier
-• Data Visualization
-• Top 3 Mineral Predictions 
+• Data Processing & Data Exploration.
+<br />
+• Data Cleaning.
+<br />
+• Feature Selection.
+<br />
+• Logistic Regression Classifier.
+<br />
+• Data Visualization.
+<br />
+• Top 3 Mineral Predictions.
 
 <br />
 
